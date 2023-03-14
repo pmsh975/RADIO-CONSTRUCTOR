@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology.javaqa</groupId>
-    <artifactId>HW_JACOCO</artifactId>
+    <artifactId>HW_RADIO</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
